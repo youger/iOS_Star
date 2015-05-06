@@ -1,0 +1,8 @@
+## Third realized
+
+   name      |     desc      |
+------------ | ------------- |
+**[AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit)** | AsyncDisplayKit is an iOS framework that keeps even the most complex user interfaces smooth and responsive. It was originally built to make Facebook's Paper possible, and goes hand-in-hand with pop's physics-based animations — but it's just as powerful with UIKit Dynamics and conventional app designs.
+**[BeeFramework](http://github.com/gavinkwoe/BeeFramework)** | A semi-hybrid framework that allows you to create mobile apps using Objective-C and XML/CSS <http://www.bee-framework.com>
+**[nimbus](https://github.com/jverkoey/nimbus)** | Nimbus is an iOS framework whose feature set grows only as fast as its documentation.
+**[react](https://github.com/facebook/react)** | A declarative, efficient, and flexible JavaScript library for building user interfaces.<http://facebook.github.io/react>
