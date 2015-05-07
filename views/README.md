@@ -15,6 +15,11 @@
 |[SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS)|Live animated Alert View for iOS written in `Swift`|
 |[CXAlertView](https://github.com/ChrisXu1221/CXAlertView)|Custom alert-view which allow you to add view as main content.|
 
+**BlurView**|desc
+------------|----
+[MSLiveBlur](https://github.com/mspensieri/MSLiveBlur)|Live blurring for iOS,using a condensed version of GPUImage to do the blurring.
+[MotionBlur](https://github.com/fastred/MotionBlur)|MotionBlur allows you to add motion blur effect to iOS animations.<http://holko.pl/2014/07/21/motion-blur/>
+
 |**Button**|desc|
 |---------|----|
 |[APRoundedButton](https://github.com/elpsk/APRoundedButton)||
@@ -37,9 +42,9 @@
 
 |**PullToRefresh**|desc|
 |-----------------|----|
-| ~~[`SVPullToRefresh`](https://github.com/samvermette/SVPullToRefresh)~~ |Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. <http://samvermette.com/314>
+| *[`SVPullToRefresh`](https://github.com/samvermette/SVPullToRefresh)* |Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. <http://samvermette.com/314>
 | [XHRefreshControl](https://github.com/xhzengAIB/XHRefreshControl) |XHRefreshControl 是一款高扩展性、低耦合度的下拉刷新、上提加载更多的组件。
-| [`CBStoreHouseRefreshControl`](https://github.com/coolbeet/CBStoreHouseRefreshControl) |Fully customizable pull-to-refresh control inspired by Storehouse iOS app.
+| **[`CBStoreHouseRefreshControl`](https://github.com/coolbeet/CBStoreHouseRefreshControl)** |Fully customizable pull-to-refresh control inspired by Storehouse iOS app.
 | [refresher](https://github.com/jcavar/refresher) |Refresher for easily adding pull-to-refresh to a UIScrollView with added support for custom animations from Jcavar created in `Swift`.
 | [mntpulltoreact](https://github.com/mentionapp/mntpulltoreact) | One gesture, many actions. An evolution of Pull to Refresh.
 | ~~[Pull-to-Refresh.Rentals-iOS](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS)~~ |
