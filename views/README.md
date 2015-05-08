@@ -1,4 +1,4 @@
-## Views
+# Views
 
 **Activity Indicator**|desc
 ----------------------|----
