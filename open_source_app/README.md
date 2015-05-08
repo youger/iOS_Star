@@ -21,6 +21,7 @@
 
 ###Undefine
 
-| name | desc |
-|------|------|
-|[HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native)||
+ name | desc
+------|------
+[HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) |
+[iHasApp](https://github.com/danielamitay/iHasApp) | The iHasApp iOS Framework allows you to detect installed apps on a user's device.
