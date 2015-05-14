@@ -12,6 +12,7 @@
 * [Snippet](snippet/README.md)
 * [Views](views/README.md)
 * [Controllers](controllers/README.md)
+   * [Container](controllers/container.md)
 * [Open Source App](open_source_app/README.md)
 * [Tools & Plugins](tools_&_plugins/README.md)
 * [Follow](follow/README.md)

@@ -53,6 +53,7 @@
 [mntpulltoreact](https://github.com/mentionapp/mntpulltoreact) | One gesture, many actions. An evolution of Pull to Refresh.
 ~~[Pull-to-Refresh.Rentals-iOS](https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS)~~ |
 [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) | Play BreakOut while loading - A playable pull to refresh view using SpriteKit
+~~[EGOTableViewPullRefresh](https://github.com/enormego/EGOTableViewPullRefresh)~~ | A similar control to the pull down to refresh control created by atebits in Tweetie 2.(`Delegate pattern`)<http://developers.enormego.com>
 
 **Slide Menu**|desc
 --------------|----
