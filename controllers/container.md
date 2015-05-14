@@ -3,9 +3,9 @@
 **DrawerController**[^l1]|desc
 --------------------|----
 *[ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController)* | Customizable sliding view controller.Supports all screen sizes and orientations. container.![iPhone and iPad Mini screenshots](http://i.imgur.com/WBHYZUf.png)
-*[JVFloatingDrawer](https://github.com/JVillella/JVFloatingDrawer)* | An easy to use floating drawer view controller.![Opening Drawer Animation](http://jvillella.github.io/JVFloatingDrawer/Screenshots/animated-drawer-open-portrait.gif "Opening Drawer")
-*[MMDrawerController](https://github.com/mutualmobile/MMDrawerController)* | A lightweight, easy to use, Side Drawer Navigation Controller <img src="http://mutualmobile.github.io/MMDrawerController/ExampleImages/example2.png" width="133" height="250"/>
-*[MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController)* | Container view controller that leverages UIKit Dynamics to provide a realistic drawer navigation paradigm.![](https://camo.githubusercontent.com/451c94bf11576782507dd6ed3ababc4ae583249f/68747470733a2f2f7261772e6769746875622e636f6d2f6d6f6e6f7370616365636f6c6c6563746976652f4d5344796e616d69637344726177657256696577436f6e74726f6c6c65722f6d61737465722f53637265656e73686f74732f6f70656e2d636c6f73652e676966)
+*[JVFloatingDrawer](https://github.com/JVillella/JVFloatingDrawer)* | An easy to use floating drawer view controller.<img src="http://jvillella.github.io/JVFloatingDrawer/Screenshots/animated-drawer-open-portrait.gif" width="160" height="283"/>
+*[MMDrawerController](https://github.com/mutualmobile/MMDrawerController)* | A lightweight, easy to use, Side Drawer Navigation Controller <img src="http://mutualmobile.github.io/MMDrawerController/ExampleImages/example2.png" width="160" height="283"/>
+*[MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController)* | Container view controller that leverages UIKit Dynamics to provide a realistic drawer navigation paradigm.<img src="https://raw.github.com/monospacecollective/MSDynamicsDrawerViewController/master/Screenshots/open-close.gif" width="160" height="283"/>
 
 [^l1]: <https://www.cocoacontrols.com/search?utf8=✓&q=drawer>
 
