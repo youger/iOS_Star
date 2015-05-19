@@ -38,6 +38,7 @@
 **NavigationBar**|desc
 -----------------|----
 [LTNavigationBar](https://github.com/ltebean/LTNavigationBar) | UINavigationBar Category which allows you to change its appearance dynamically<p align='center'><img src="https://maniacdev.com/wp-content/uploads/2015/02/LTNavigationBar.gif" width="160" height="283"/></p>
+[BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar)|Create condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.
 
 **Popover**|desc
 -----------|----
