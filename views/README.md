@@ -25,6 +25,10 @@
 |[APRoundedButton](https://github.com/elpsk/APRoundedButton)||
 |[]()||
 
+|**CollectionView**|desc|
+|--------------------|----|
+|[UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell) |Automatically UICollectionViewCell size calculating.|
+
 |**ImageView**|desc|
 |---------|----|
 |~~[`RJImageLoader`](https://github.com/elpsk/APRoundedButton)~~|an image loading animation which shows a circular progress indicator, and then reveals the image in an expanding circular ring|
