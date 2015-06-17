@@ -19,11 +19,12 @@
 ------------|----
 [MotionBlur](https://github.com/fastred/MotionBlur)|MotionBlur allows you to add motion blur effect to iOS animations.<http://holko.pl/2014/07/21/motion-blur/>
 [MSLiveBlur](https://github.com/mspensieri/MSLiveBlur)|Live blurring for iOS,using a condensed version of GPUImage to do the blurring.
+[FXBlurView](https://github.com/nicklockwood/FXBlurView) | UIView subclass that replicates the iOS 7 realtime background blur effect, but works on iOS 5 and above
 
 |**Button**|desc|
 |---------|----|
 |[APRoundedButton](https://github.com/elpsk/APRoundedButton)||
-|[]()||
+|[DownloadButton](https://github.com/PavelKatunin/DownloadButton)| Customizable App Store style download button<http://pavelkatunin.github.io/DownloadButton>|
 
 |**ImageView**|desc|
 |---------|----|

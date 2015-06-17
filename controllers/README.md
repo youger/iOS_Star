@@ -16,6 +16,12 @@
 -------------------------|----
 *[ELCImagePickerController](https://github.com/B-Sides/ELCImagePickerController)* | A clone of the `UIImagePickerController` using the Assets Library Framework allowing for multiple asset selection.
 
+**TransitionController**|desc
+-------------------------|----
+*[InteractiveViewControllerTransitions](https://github.com/PeteC/InteractiveViewControllerTransitions)*|Sample code for blog post on implementing interactive view controller transitions in iOS 7<http://dativestudios.com/blog/2013/09/29/interactive-transitions/><p align='center'><img src="http://code4app.qiniudn.com/photo/53b51282933bf0b2118b5221_1.gif" width="160" height="283"/></p>
+*[PinterestAnimator](https://github.com/xhzengAIB/PinterestAnimator)* | PinterestAnimator like Pinterest 3.0++ App transition animation.<p align='center'><img src="https://github.com/xhzengAIB/LearnEnglish/raw/master/Screenshots/PinterestAnimator.gif" width="160" height="283"/></p>
+[BCMagicTransition](https://github.com/boycechang/BCMagicTransition) | A MagicMove Style Custom UIViewController Transiton.<p align='center'><img src="https://github.com/boycechang/BCMagicTransition/raw/master/MagicTransition.gif" width="160" height="283"/></p>
+
 [^gtd1]: learn using `UIViewControllerContextTransitioning`
 
 **[awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)**
