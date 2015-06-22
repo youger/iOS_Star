@@ -6,6 +6,7 @@
 **[JavaScriptBridge](https://github.com/kishikawakatsumi/JavaScriptBridge)** | Make using `JavascriptCore` framework ( iOS 7 SDK ) easier
 **[MCSCollectionUtility](https://github.com/macoscope/MCSCollectionUtility)** | `Categories` for NSArray, NSSet and NSDictionary which provide many methods which make operations on collection easier and cleaner
 **[openshare](https://github.com/100apps/openshare)**|利用社交软件移动客户端分享(不用官方SDK)<http://openshare.gfzj.us/>
+**[DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert)** | Optimizing UITableViewCell For Fast Scrolling
 
 ##Color
  name | desc |

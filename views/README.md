@@ -71,6 +71,9 @@
 [Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS) |Animated side menu with customizable UI <http://yalantis.com>.
 [Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS)
 
+**StackView**|desc
+-------------|----
+[OAStackView](https://github.com/oarrabi/OAStackView) | Porting UIStackView to iOS 7+<p align='center'><img src="https://maniacdev.com/wp-content/uploads/2015/06/OAStackView.gif.pagespeed.ce.ixHLvO1ao6.gif" width="160" height="283"/></p>
 
 **Table**
 **[Doppelganger](https://github.com/Wondermall/Doppelganger)**
