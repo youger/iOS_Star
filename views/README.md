@@ -72,13 +72,9 @@
 [Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS)
 
 **StackView**|desc
-<<<<<<< HEAD
-[OAStackView](https://github.com/oarrabi/OAStackView)|Porting UIStackView to iOS 7+
-[ORStackView](https://github.com/orta/ORStackView)|Vertically stack views using Auto Layout, with an order specific subclass that uses view tags for ordering.
-=======
 -------------|----
-[OAStackView](https://github.com/oarrabi/OAStackView) | Porting UIStackView to iOS 7+<p align='center'><img src="https://maniacdev.com/wp-content/uploads/2015/06/OAStackView.gif.pagespeed.ce.ixHLvO1ao6.gif" width="160" height="283"/></p>
->>>>>>> 943c2443c5e35152555c0f66b17d206b0c9dfa31
+[OAStackView](https://github.com/oarrabi/OAStackView)|Porting UIStackView to iOS 7+<p align='center'><img src="https://maniacdev.com/wp-content/uploads/2015/06/OAStackView.gif.pagespeed.ce.ixHLvO1ao6.gif" width="160" height="283"/></p>
+[ORStackView](https://github.com/orta/ORStackView)|Vertically stack views using Auto Layout, with an order specific subclass that uses view tags for ordering.
 
 **Table**
 **[Doppelganger](https://github.com/Wondermall/Doppelganger)**
