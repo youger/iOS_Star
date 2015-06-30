@@ -4,7 +4,7 @@
 ----------------------|----
 [MMMaterialDesignSpinner](https://github.com/misterwell/MMMaterialDesignSpinner) | An iOS activity spinner modeled after Google's Material Design Spinner
 [PQFCustomLoaders](https://github.com/poolqf/PQFCustomLoaders)| Collection of highly customizable loaders for your iOS projects
-[`SwiftSpinner`](https://github.com/icanzilb/SwiftSpinner)| A beautiful activity indicator and modal alert written in `Swift` (originally developed for <http://doodledoodle.io>) Using blur effects, translucency, flat and bold design - all iOS 8 latest and greatest
+[`SwiftSpinner`](https://github.com/icanzilb/SwiftSpinner)| A beautiful activity indicator and modal alert written in `Swift` (originally developed for <http://doodledoodle.io>) Using blur effects, translucency, flat and bold design - all iOS 8 latest and greatesta
 
 
 **Alert**|desc
@@ -12,6 +12,7 @@
 [AMSmoothAlert](https://github.com/mtonio91/AMSmoothAlert)|
 [CXAlertView](https://github.com/ChrisXu1221/CXAlertView) | Custom alert-view which allow you to add view as main content.
 ~~[MJAlertView](https://github.com/mayuur/MJAlertView)~~|Simple automatic Dismissible Alert with minor 3D Transforms. Produces an effect similar to Saavn's dismissible Alerts
+[SCLAlertView](https://github.com/dogo/SCLAlertView) | Beautiful animated Alert View. Written in Swift but ported to Objective-C
 [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS) | Live animated Alert View for iOS written in `Swift`
 [TSMessages](https://github.com/KrauseFx/TSMessages)|Easy to use and customizable messages/notifications for iOS à la Tweetbot <http://krausefx.com>
 
@@ -84,6 +85,7 @@ Array diffs as collection view wants it
 -----------|----
 [FancyTabBar](https://github.com/marvelapp/FancyTabBar)* | An expandable and customisable tabbar for iOS
 
-|**View Animation**|desc|
-|-------------|----|
-| [KYWaterWaveView](https://github.com/KittenYang/KYWaterWaveView) | 一个内置波浪动画的UIView。A view with water wave animation inside.|
+**View Animation**|desc
+------------------|----
+[KYWaterWaveView](https://github.com/KittenYang/KYWaterWaveView) | 一个内置波浪动画的UIView。A view with water wave animation inside.
+[WobbleView](https://github.com/inFullMobile/WobbleView)|<p align='center'><img src="https://github.com/inFullMobile/WobbleView/raw/master/wobble.gif">
