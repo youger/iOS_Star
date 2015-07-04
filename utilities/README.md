@@ -14,3 +14,6 @@
 **[DominantColor](https://github.com/indragiek/DominantColor)** | Finding dominant colors of an image using k-means clustering
 **[SwiftColorArt](https://github.com/Jan0707/SwiftColorArt)** | 获取图片主颜色
 **[DynamicColor](https://github.com/yannickl/DynamicColor)** | Yet another extension to manipulate colors easily in Swift
+
+##Gesture
+[FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)|A UINavigationController's category to enable fullscreen pop gesture with iOS7+ system style.
