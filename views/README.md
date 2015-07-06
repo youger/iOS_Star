@@ -27,9 +27,10 @@
 |[APRoundedButton](https://github.com/elpsk/APRoundedButton)||
 |[DownloadButton](https://github.com/PavelKatunin/DownloadButton)| Customizable App Store style download button<http://pavelkatunin.github.io/DownloadButton>|
 
-|**CollectionView**|desc|
-|--------------------|----|
-|[UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell) |Automatically UICollectionViewCell size calculating.|
+**CollectionView**|desc
+------------------|----
+[UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell) |Automatically UICollectionViewCell size calculating.
+[LxGridView](https://github.com/DeveloperLx/LxGridView) | Imitation iOS system desktop icon arrangement and interaction by UICollectionView!<p align='center'><img src="https://maniacdev.com/wp-content/uploads/2015/07/LXGridView.gif.pagespeed.ce.vOvRca5IDS.gif" width="160" height="283"/></p>
 
 |**ImageView**|desc|
 |---------|----|
@@ -70,7 +71,7 @@
 **Side Menu**|desc
 -------------|----
 [Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS) |Animated side menu with customizable UI <http://yalantis.com>.
-[Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS)| 
+[Context-Menu.iOS](https://github.com/Yalantis/Context-Menu.iOS)|
 
 **StackView**|desc
 -------------|----
