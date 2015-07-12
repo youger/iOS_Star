@@ -1,5 +1,9 @@
 # Controllers
 
+**ActionSheet**|desc
+----------------------------|----
+*[JMActionSheetDescription](https://github.com/leverdeterre/JMActionSheetDescription)* | ActionSheet and UIActivityViewController replacement, using a descriptor component.
+
 **FormSheetController**|desc
 -----------------------|----
 *[MZFormSheetController](https://github.com/m1entus/MZFormSheetController)* | An alternative to the native iOS `UIModalPresentationFormSheet`
