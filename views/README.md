@@ -5,6 +5,7 @@
 [MMMaterialDesignSpinner](https://github.com/misterwell/MMMaterialDesignSpinner) | An iOS activity spinner modeled after Google's Material Design Spinner
 [PQFCustomLoaders](https://github.com/poolqf/PQFCustomLoaders)| Collection of highly customizable loaders for your iOS projects
 [`SwiftSpinner`](https://github.com/icanzilb/SwiftSpinner)| A beautiful activity indicator and modal alert written in `Swift` (originally developed for <http://doodledoodle.io>) Using blur effects, translucency, flat and bold design - all iOS 8 latest and greatesta
+[`FillableLoaders`](https://github.com/poolqf/FillableLoaders) | Collection of completely customizable progress based loaders based in custom CGPaths written in `Swift`<img src="https://github.com/poolqf/FillableLoaders/blob/master/Images/waves.gif?raw=true">
 
 
 **Alert**|desc
@@ -31,6 +32,8 @@
 ------------------|----
 [UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell) |Automatically UICollectionViewCell size calculating.
 [LxGridView](https://github.com/DeveloperLx/LxGridView) | Imitation iOS system desktop icon arrangement and interaction by UICollectionView!<p align='center'><img src="https://maniacdev.com/wp-content/uploads/2015/07/LXGridView.gif.pagespeed.ce.vOvRca5IDS.gif" width="160" height="283"/></p>
+[CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) | UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.<https://medium.com/ios-apprentice/43e943e6627>
+
 
 |**ImageView**|desc|
 |---------|----|
