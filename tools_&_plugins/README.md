@@ -13,6 +13,7 @@
 **[PonyDebugger](https://github.com/square/PonyDebugger)** | Remote network and data debugging for your native iOS app using Chrome Developer Tools
 **[synx](https://github.com/venmo/synx)** | A command-line tool that reorganizes your Xcode project folder to match your Xcode groups
 **[xctool](https://github.com/facebook/xctool)** | A replacement for Apple's xcodebuild that makes it easier to build and test iOS or OSX apps.
+**[xcode_shell](https://github.com/webfrogs/xcode_shell)**|shell script that used to auto-build xcode project
 
 # Plugins
 
