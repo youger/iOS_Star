@@ -82,6 +82,11 @@
 [OAStackView](https://github.com/oarrabi/OAStackView)|Porting UIStackView to iOS 7+<p align='center'><img src="https://maniacdev.com/wp-content/uploads/2015/06/OAStackView.gif.pagespeed.ce.ixHLvO1ao6.gif" width="160" height="283"/></p>
 [ORStackView](https://github.com/orta/ORStackView)|Vertically stack views using Auto Layout, with an order specific subclass that uses view tags for ordering.
 
+**Status Bar**|desc
+--------------|----
+**[JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification)**| [iOS] Easy, customizable notifications displayed on top of the statusbar. <http://jaydee3.github.io/JDStatusBarNotification/>
+**[MTStatusBarOverla](https://github.com/myell0w/MTStatusBarOverlay)** | A custom iOS status bar overlay seen in Apps like Reeder, Evernote and Google Mobile App
+
 **Table**|desc
 ---------|----
 **[Doppelganger](https://github.com/Wondermall/Doppelganger)** | Array diffs as collection view wants it
