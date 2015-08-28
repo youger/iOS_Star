@@ -8,6 +8,7 @@
 **[CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack)** | A fast & simple, yet powerful & flexible logging framework for Mac and iOS
 **[CRChecker](https://github.com/duowan/CRChecker)** | CRChecker is a debug tool, helps you find out circular reference problem.<http://www.duowan.com/>
 **[dSYMTools](https://github.com/answer-huang/dSYMTools)** | dSYM analyze
+**[JSPatch](https://github.com/bang590/JSPatch)**|JSPatch bridge Objective-C and `Javascript` using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
 **[liftoff](https://github.com/thoughtbot/liftoff?utm_source=ios+dev+tools&utm_medium=website&utm_campaign=ios+dev+tools&at=11lvzs&ct=ios+dev+tools)** | CLI for creating and configuring new Xcode projects
 **[MCSLLDBToolkit](https://github.com/macoscope/MCSLLDBToolkit)** | Set of handy `LLDB commands` that will dramatically improve your debugging workflow
 **[PonyDebugger](https://github.com/square/PonyDebugger)** | Remote network and data debugging for your native iOS app using Chrome Developer Tools
