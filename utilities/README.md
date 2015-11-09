@@ -7,6 +7,7 @@
 **[MCSCollectionUtility](https://github.com/macoscope/MCSCollectionUtility)** | `Categories` for NSArray, NSSet and NSDictionary which provide many methods which make operations on collection easier and cleaner
 **[openshare](https://github.com/100apps/openshare)**|利用社交软件移动客户端分享(不用官方SDK)<http://openshare.gfzj.us/>
 **[DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert)** | Optimizing UITableViewCell For Fast Scrolling
+**[NetworkEye](https://github.com/coderyi/NetworkEye) | iOS网络调试库，NetworkEye可以监控App内HTTP请求并显示请求相关的详细信息，方便App开发的网络调试。
 
 ##Color
  name | desc |
