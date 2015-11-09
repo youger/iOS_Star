@@ -1,13 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
+* [Utilities](utilities/README.md)
 * [Framework](framework/README.md)
    * [JSON parse](framework/json_parse.md)
    * [Socket](framework/socket.md)
    * [Graphs](framework/graphs.md)
    * [Animate](framework/animate.md)
    * [Third realized](framework/third_realized.md)
-* [Utilities](utilities/README.md)
 * [Tutorials](tutorials/README.md)
 * [Snippet](snippet/README.md)
 * [Views](views/README.md)
