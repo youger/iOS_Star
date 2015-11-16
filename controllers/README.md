@@ -16,12 +16,6 @@
 *[SlackTextViewController](https://github.com/slackhq/SlackTextViewController)* | A drop-in UIViewController subclass with a growing text input view and other useful messaging features<http://www.slack.com>
 *[ZFDragableModalTransition](https://github.com/zoonooz/ZFDragableModalTransition)* [^gtd1] | Custom animation transition for present modal view controller
 
-**ImagePickerController**|desc
--------------------------|----
-*[ELCImagePickerController](https://github.com/B-Sides/ELCImagePickerController)* | A clone of the `UIImagePickerController` using the Assets Library Framework allowing for multiple asset selection.
-*[CustomImagePicker](https://github.com/cspnanda/CustomImagePicker)* | An integrated Image Picker for iPhone like the one used in FB or twitter
-*[DNImagePicker](https://github.com/AwesomeDennis/DNImagePicker)* | An imagePicker functioned like wechat(微信)
-
 **TransitionController**|desc
 -------------------------|----
 *[InteractiveViewControllerTransitions](https://github.com/PeteC/InteractiveViewControllerTransitions)*|Sample code for blog post on implementing interactive view controller transitions in iOS 7<http://dativestudios.com/blog/2013/09/29/interactive-transitions/><p align='center'><img src="http://code4app.qiniudn.com/photo/53b51282933bf0b2118b5221_1.gif" width="160" height="283"/></p>
