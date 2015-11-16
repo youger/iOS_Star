@@ -10,6 +10,7 @@
 * [Controllers](controllers/README.md)
    * [Container](controllers/container.md)
    * [Picker](controllers/imagepicker.md)
+   * Picker
 * [Views](views/README.md)
    * [Indicator](views/indicator.md)
    * [Alert](views/alert.md)
