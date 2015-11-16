@@ -13,7 +13,7 @@
 * [Views](views/README.md)
    * [Indicator](views/indicator.md)
    * [Alert](views/alert.md)
-   * PullToRefresh
+   * [PullToRefresh](views/pulltorefresh.md)
 * [Controllers](controllers/README.md)
    * [Container](controllers/container.md)
 * [Open Source App](open_source_app/README.md)
