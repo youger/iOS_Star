@@ -1,5 +1,3 @@
-# ImagePicker
-
 **ImagePickerController**|desc
 -------------------------|----
 *[ELCImagePickerController](https://github.com/B-Sides/ELCImagePickerController)* | A clone of the `UIImagePickerController` using the Assets Library Framework allowing for multiple asset selection.
