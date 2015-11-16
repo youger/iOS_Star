@@ -9,7 +9,7 @@
    * [Third realized](framework/third_realized.md)
 * [Controllers](controllers/README.md)
    * [Container](controllers/container.md)
-   * [ImagePicker](controllers/imagepicker.md)
+   * [Picker](controllers/imagepicker.md)
 * [Views](views/README.md)
    * [Indicator](views/indicator.md)
    * [Alert](views/alert.md)
