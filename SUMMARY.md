@@ -12,6 +12,7 @@
 * [Snippet](snippet/README.md)
 * [Views](views/README.md)
    * [Indicator](views/indicator.md)
+   * Alert
 * [Controllers](controllers/README.md)
    * [Container](controllers/container.md)
 * [Open Source App](open_source_app/README.md)
