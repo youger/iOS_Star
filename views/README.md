@@ -17,7 +17,6 @@
 [LxGridView](https://github.com/DeveloperLx/LxGridView) | Imitation iOS system desktop icon arrangement and interaction by UICollectionView!<p align='center'><img src="https://maniacdev.com/wp-content/uploads/2015/07/LXGridView.gif.pagespeed.ce.vOvRca5IDS.gif" width="160" height="283"/></p>
 [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) | UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.<https://medium.com/ios-apprentice/43e943e6627>
 
-
 |**ImageView**|desc|
 |---------|----|
 |~~[`RJImageLoader`](https://github.com/elpsk/APRoundedButton)~~|an image loading animation which shows a circular progress indicator, and then reveals the image in an expanding circular ring|
