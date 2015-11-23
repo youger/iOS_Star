@@ -16,5 +16,13 @@
 **[SwiftColorArt](https://github.com/Jan0707/SwiftColorArt)** | 获取图片主颜色
 **[DynamicColor](https://github.com/yannickl/DynamicColor)** | Yet another extension to manipulate colors easily in Swift
 
+##UIImage
+ name | desc |
+------|------|
+**[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage)** | Performant animated GIF engine for iOS
+**[YLGIFImage](https://github.com/liyong03/YLGIFImage)** | Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.
+**[OLImageView](https://github.com/dtorres/OLImageView)** | Animated GIFs implemented the right way
+**[JMAnimatedImageView](https://github.com/leverdeterre/JMAnimatedImageView)** | Subclass of UIImageView to drive easy animations (manual rotation, Carousel, GIF support)
+
 ##Gesture
 [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture)|A UINavigationController's category to enable fullscreen pop gesture with iOS7+ system style.
