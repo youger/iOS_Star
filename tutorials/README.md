@@ -16,6 +16,8 @@
 # Sample
  name | desc |
 ------|------|
+**[iOS7-Sampler](https://github.com/shu223/iOS7-Sampler)** | Code examples for the new features of iOS 7.
+**[iOS8-Sampler](https://github.com/shu223/iOS8-Sampler)** | Code examples for the new features of iOS 8.
 **[iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler)** | Code examples for the new features of iOS 9.
 
 [link]:http://blog.bignerdranch.com/4736-javascriptcore-example/
