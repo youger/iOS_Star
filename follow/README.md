@@ -1,12 +1,5 @@
 #Blog
 
-###iOS_EN
-
-1. [theNerdBlog](http://blog.bignerdranch.com)
-2. []()
-
-
-
 ###Other_CH
 
 ###Other_EN
