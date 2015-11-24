@@ -13,5 +13,10 @@
 **[awesome](https://github.com/sindresorhus/awesome)**|A curated list of awesome lists
 **[swift-weekly](https://github.com/vandadnp/swift-weekly)** | Swift Weekly is an exciting and new weekly magazine for Swift programming language enthusiasts.
 
+# Sample
+ name | desc |
+------|------|
+**[iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler)** | Code examples for the new features of iOS 9.
+
 [link]:http://blog.bignerdranch.com/4736-javascriptcore-example/
 
