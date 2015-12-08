@@ -8,6 +8,7 @@
 **[openshare](https://github.com/100apps/openshare)**|利用社交软件移动客户端分享(不用官方SDK)<http://openshare.gfzj.us/>
 **[DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert)** | Optimizing UITableViewCell For Fast Scrolling
 **[NetworkEye](https://github.com/coderyi/NetworkEye)** | iOS网络调试库，NetworkEye可以监控App内HTTP请求并显示请求相关的详细信息，方便App开发的网络调试。
+** [JSPatch](https://github.com/bang590/JSPatch)** | JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
 
 ##Color
  name | desc |
