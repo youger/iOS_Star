@@ -11,4 +11,4 @@
 **[XAlign](https://github.com/qfish/XAlign)** | An amazing Xcode plugin to align regular code. it can *`align`* Xnything in any way you want.<http://qfi.sh/XAlign/>
 **[XcodeBoost](https://github.com/fortinmike/XcodeBoost)**| An Xcode plugin that aims to make altering and inspecting code quick and easy.
 **[XToDo](https://github.com/trawor/XToDo)** | Xcode plugin to collect and list the `TODO`,`FIXME`,`???`,`!!!!`<http://imi.im/post/>xtodo
-**[]**
+**[XActivatePowerMode](https://github.com/qfish/XActivatePowerMode)** | An Xcode plug-in makes POWER MODE happen in your Xcode.
