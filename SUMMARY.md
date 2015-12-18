@@ -19,7 +19,7 @@
 * [Snippet](snippet/README.md)
 * [Open Source App](open_source_app/README.md)
 * [Tools & Plugins](tools_&_plugins/README.md)
-   * Tools
+   * [Tools](tools_&_plugins/tools.md)
 * [Follow](follow/README.md)
    * [iOS_CN](follow/ioscn.md)
    * [iOS_EN](follow/iosen.md)
