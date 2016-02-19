@@ -12,3 +12,4 @@
 **[Square](https://github.com/square)** | <http://square.github.io>
 **[thoughtbot, inc.](https://github.com/thoughtbot)** | <http://robots.thoughtbot.com>
 **[Yalantis](https://github.com/Yalantis)**| <http://www.yalantis.com>
+**[fastlane](https://fastlane.tools)**|<https://github.com/fastlane>
