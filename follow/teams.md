@@ -12,3 +12,4 @@
 **[thoughtbot, inc.](https://github.com/thoughtbot)** | <http://robots.thoughtbot.com>
 **[Yalantis](https://github.com/Yalantis)**| <http://www.yalantis.com>
 **[fastlane](https://fastlane.tools)**|<https://github.com/fastlane>
+**OpenWatch**|<https://github.com/OpenWatch>|
