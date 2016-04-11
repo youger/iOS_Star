@@ -10,6 +10,7 @@
 | name | desc |
 |------|------|
 | **[RealtimeChat](https://github.com/relatedcode/RealtimeChat)** |This is a full native iPhone app to create realtime, text based group or private chat with Parse and Firebase.
+|**[ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS)**||
 
 ###Elegant
 
