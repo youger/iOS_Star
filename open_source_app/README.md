@@ -10,7 +10,7 @@
 | name | desc |
 |------|------|
 | **[RealtimeChat](https://github.com/relatedcode/RealtimeChat)** |This is a full native iPhone app to create realtime, text based group or private chat with Parse and Firebase.
-|**[ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS)**||
+|**[ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS)**|ChatSecure is a free and open source encrypted chat client for iPhone and Android that supports OTR encryption over XMPP. <https://chatsecure.org>|
 
 ###Elegant
 
