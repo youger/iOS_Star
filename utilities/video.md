@@ -1,3 +1,6 @@
 # Video
 
-https://github.com/rFlex/SCRecorder
+ name | desc |
+------|------|
+**[SCRecorder](https://github.com/rFlex/SCRecorder)** | iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing
+**[SCRecorder](https://github.com/rFlex/SCRecorder)** | iOS camera engine, features touch-to-record video, slow motion, and photo capture
