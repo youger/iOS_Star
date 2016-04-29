@@ -18,6 +18,7 @@
    * [Tools](tools_&_plugins/tools.md)
    * [Plugins](tools_&_plugins/plugins.md)
 * [Utilities](utilities/README.md)
+   * Video
 * [Tutorials](tutorials/README.md)
 * [Snippet](snippet/README.md)
 * [Open Source App](open_source_app/README.md)
