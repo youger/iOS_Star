@@ -1,3 +1,6 @@
 # Dev
 
-(aevit)[] | http://aevit.xyz
+github | site
+--------|------
+**[aevit](https://github.com/Aevit)** | <http://aevit.xyz>
+**[]()** | 
