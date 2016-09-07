@@ -15,6 +15,6 @@
 | [**synx**](https://github.com/venmo/synx) | A command-line tool that reorganizes your Xcode project folder to match your Xcode groups |
 | [**xctool**](https://github.com/facebook/xctool) | A replacement for Apple's xcodebuild that makes it easier to build and test iOS or OSX apps. |
 | [**xcode\_shell**](https://github.com/webfrogs/xcode_shell) | shell script that used to auto-build xcode project |
-| [**crafter**](https://github.com/krzysztofzablocki/crafter) | shell script that used to auto-build xcode project |
+| [**crafter**](https://github.com/krzysztofzablocki/crafter) | Crafter - Xcode project configuration CLI made easy. <http://twitter.com/merowing_> |
 
 
