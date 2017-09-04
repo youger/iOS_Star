@@ -12,7 +12,7 @@
   * [Picker](controllers/picker.md)
   * [Alert](controllers/alert.md)
 * [Views](views/README.md)
-  * [Indicator](views/indicator.md)
+  * [Animation](views/indicator.md)
   * [Alert](views/alert.md)
   * [PullToRefresh](views/pulltorefresh.md)
 * [Utilities](utilities/README.md)
