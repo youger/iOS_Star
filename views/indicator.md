@@ -12,4 +12,6 @@
 
 **Wave animation**|desc
 ------------------|----
-[ZLSinusWaveView](https://github.com/zhxnlai/ZLSinusWaveView) | An iOS activity spinner modeled after Google's Material Design Spinner
+[ZLSinusWaveView](https://github.com/zhxnlai/ZLSinusWaveView) | A Siri like voice visualization view using EZAudio. Modified from SISinusWaveView for iOS.<img src="https://github.com/zhxnlai/ZLSinusWaveView/raw/master/Previews/preview.gif">
+
+
