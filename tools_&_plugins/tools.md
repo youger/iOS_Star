@@ -11,15 +11,17 @@
 | name | desc |
 | ---- | ---- |
 | [**CRChecker**](https://github.com/duowan/CRChecker) | CRChecker is a debug tool, helps you find out circular reference problem.[http:\/\/www.duowan.com\/](http://www.duowan.com/) |
+| [**LifetimeTracker**](https://github.com/krzysztofzablocki/LifetimeTracker) | 🐤Dynamically Mock server behaviors and responses in Swift http://devlucky.github.io/kakapo-swift|
+
+
+
+
 
 
 ##Mock
 | name | desc |
 | ---- | ---- |
 | [**Kakapo**](https://github.com/devlucky/Kakapo) | 🐤Dynamically Mock server behaviors and responses in Swift http://devlucky.github.io/kakapo-swift|
-| [**Kakapo**](https://github.com/devlucky/Kakapo) | 🐤Dynamically Mock server behaviors and responses in Swift http://devlucky.github.io/kakapo-swift|
-
-
 
 ##Others
 | name | desc |
