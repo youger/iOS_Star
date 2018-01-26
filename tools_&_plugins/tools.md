@@ -7,17 +7,12 @@
 | [**Clue**](https://github.com/Geek-1001/Clue) | Clue is a simple smart-bug report framework for iOS, which allows your users to record full bug/crash report and send it to you as a single .clue file via email.(which includes full ⭐️**video** of the screen, views structure, all network operations and user interactions during recording) .|
 | [**Dotzu**](https://github.com/remirobert/Dotzu) | In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.|
 
+##Mock
+| name | desc |
+| ---- | ---- |
+| [**Kakapo**](https://github.com/devlucky/Kakapo) | 🐤Dynamically Mock server behaviors and responses in Swift http://devlucky.github.io/kakapo-swift|
 
-
-
-
-
-
-
-
-
-
-
+##Others
 | name | desc |
 | ---- | ---- |
 | [**Aspects**](https://github.com/steipete/Aspects) | Think of Aspects as method swizzling on steroids. It allows you to add code to existing methods per class or per instance, whilst thinking of the insertion point e.g. before\/instead\/after. Aspects automatically deals with calling super and is easier to use than regular method |
@@ -34,11 +29,6 @@
 | [**xctool**](https://github.com/facebook/xctool) | A replacement for Apple's xcodebuild that makes it easier to build and test iOS or OSX apps. |
 | [**xcode\_shell**](https://github.com/webfrogs/xcode_shell) | shell script that used to auto-build xcode project |
 | [**crafter**](https://github.com/krzysztofzablocki/crafter) | Crafter - Xcode project configuration CLI made easy. <http://twitter.com/merowing_> |
-
-##Mock
-| name | desc |
-| ---- | ---- |
-| [**Kakapo**](https://github.com/devlucky/Kakapo) | 🐤Dynamically Mock server behaviors and responses in Swift http://devlucky.github.io/kakapo-swift|
 
 
 
