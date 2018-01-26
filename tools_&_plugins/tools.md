@@ -22,7 +22,7 @@
 | name | desc |
 | ---- | ---- |
 | [**Dotzu**](https://github.com/remirobert/Dotzu) | In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.|
-| [**Clue**](https://github.com/Geek-1001/Clue) | Clue is a simple smart-bug report framework for iOS, which allows your users to record full bug/crash report and send it to you as a single .clue file via email.(which includes full video of the screen, views structure, all network operations and user interactions during recording) .|
+| [**Clue**](https://github.com/Geek-1001/Clue) | Clue is a simple smart-bug report framework for iOS, which allows your users to record full bug/crash report and send it to you as a single .clue file via email.(which includes full ⭐️**video** of the screen, views structure, all network operations and user interactions during recording) .|
 | [**Dotzu**](https://github.com/remirobert/Dotzu) | In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.|
 
 
