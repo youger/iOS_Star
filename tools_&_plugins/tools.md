@@ -8,6 +8,10 @@
 | [**Dotzu**](https://github.com/remirobert/Dotzu) | In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.|
 
 ##Memory
+| name | desc |
+| ---- | ---- |
+| [**CRChecker**](https://github.com/duowan/CRChecker) | CRChecker is a debug tool, helps you find out circular reference problem.[http:\/\/www.duowan.com\/](http://www.duowan.com/) |
+
 
 ##Mock
 | name | desc |
@@ -21,7 +25,6 @@
 | [**chisel**](https://github.com/facebook/chisel) | Chisel is a collection of `LLDB commands` to assist debugging iOS apps. |
 | [**class-dump**](https://github.com/nygard/class-dump) | Generate Objective-C headers from Mach-O files.[http:\/\/stevenygard.com\/projects\/class-dump](http://stevenygard.com/projects/class-dump) |
 | [**CocoaLumberjack**](https://github.com/CocoaLumberjack/CocoaLumberjack) | A fast & simple, yet powerful & flexible logging framework for Mac and iOS |
-| [**CRChecker**](https://github.com/duowan/CRChecker) | CRChecker is a debug tool, helps you find out circular reference problem.[http:\/\/www.duowan.com\/](http://www.duowan.com/) |
 | [**dSYMTools**](https://github.com/answer-huang/dSYMTools) | dSYM analyze |
 | [**JSPatch**](https://github.com/bang590/JSPatch) | JSPatch bridge Objective-C and `Javascript` using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App. |
 | [**liftoff**](https://github.com/thoughtbot/liftoff?utm_source=ios+dev+tools&utm_medium=website&utm_campaign=ios+dev+tools&at=11lvzs&ct=ios+dev+tools) | CLI for creating and configuring new Xcode projects |
