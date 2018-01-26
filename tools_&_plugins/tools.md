@@ -21,7 +21,13 @@
 ##Debug
 | name | desc |
 | ---- | ---- |
-| [**Dotzu**](https://github.com/remirobert/Dotzu) | 🐤In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.|
+| [**Dotzu**](https://github.com/remirobert/Dotzu) | In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.|
+| [**Clue**](https://github.com/Geek-1001/Clue) | 🐤In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.|
+
+
+
+
+
 
 
 
