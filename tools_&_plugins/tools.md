@@ -21,7 +21,7 @@
 ##Debug
 | name | desc |
 | ---- | ---- |
-| [**Dotzu**](https://github.com/remirobert/Dotzu) | 🐤Dynamically Mock server behaviors and responses in Swift http://devlucky.github.io/kakapo-swift|
+| [**Dotzu**](https://github.com/remirobert/Dotzu) | 🐤In-App iOS Debugging Tool With Enhanced Logging, Networking Info, Crash reporting And More.|
 
 
 
