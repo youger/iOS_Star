@@ -21,7 +21,7 @@
 ##Debug
 | name | desc |
 | ---- | ---- |
-| [**Kakapo**](https://github.com/devlucky/Kakapo) | 🐤Dynamically Mock server behaviors and responses in Swift http://devlucky.github.io/kakapo-swift|
+| [**Dotzu**](https://github.com/remirobert/Dotzu) | 🐤Dynamically Mock server behaviors and responses in Swift http://devlucky.github.io/kakapo-swift|
 
 
 
