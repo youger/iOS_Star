@@ -17,6 +17,7 @@
   * [PullToRefresh](views/pulltorefresh.md)
 * [Utilities](utilities/README.md)
   * [Video](utilities/video.md)
+  * [Graphic](utilities/graphic.md)
 * [Follow](follow/README.md)
   * [iOS\_CN](follow/ioscn.md)
   * [iOS\_EN](follow/iosen.md)
