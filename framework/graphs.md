@@ -1,4 +1,4 @@
-## Graphs
+## Graphic
 
  name | desc |
 ------|------|
