@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Framework](framework/README.md)
   * [JSON parse](framework/json_parse.md)
-  * [Socket](framework/socket.md)
+  * [Network](framework/socket.md)
   * [Graphic](framework/graphs.md)
   * [Animate](framework/animate.md)
   * [Third realized](framework/third_realized.md)
